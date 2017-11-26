@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ZimbraLicense verifier="ZV2">
+  <item name="AccountsLimit" value="50"/>
+  <item name="ArchivingAccountsLimit" value="50"/>
+  <item name="AttachmentConversionEnabled" value="true"/>
+  <item name="AttachmentIndexingAccountsLimit" value="50"/>
+  <item name="BackupEnabled" value="true"/>
+  <item name="CrossMailboxSearchEnabled" value="true"/>
+  <item name="EwsAccountsLimit" value="50"/>
+  <item name="HierarchicalStorageManagementEnabled" value="true"/>
+  <item name="ISyncAccountsLimit" value="50"/>
+  <item name="InstallType" value="trial"/>
+  <item name="IssuedOn" value="20171123012433Z"/>
+  <item name="IssuedToEmail" value="fabio@bktech.com.br"/>
+  <item name="IssuedToName" value="Bktech"/>
+  <item name="LicenseId" value="9eb61753-d1ae-4e63-add6-c5d8bee88087"/>
+  <item name="MAPIConnectorAccountsLimit" value="50"/>
+  <item name="MobileSyncAccountsLimit" value="50"/>
+  <item name="MobileSyncEnabled" value="true"/>
+  <item name="ResellerName" value=""/>
+  <item name="SMIMEAccountsLimit" value="50"/>
+  <item name="TouchClientsAccountsLimit" value="50"/>
+  <item name="TwoFactorAuthAccountsLimit" value="50"/>
+  <item name="ValidFrom" value="20171122000000Z"/>
+  <item name="ValidUntil" value="20180123170000Z"/>
+  <item name="VoiceAccountsLimit" value="50"/>
+  <item name="ZSSAccountsLimit" value="50"/>
+  <signature value="2baf0808916ad86c8f7e65bfbe6c5d715698a96e2f378bcddd619481b8e8c996fbf8d72547d1e5d24c419113af63425926e46595658c44f4e7085918264fe70565d988ee81183f2efb82a8d79c58fb359ae547125a9e23183c95f078b7bc6d48dbd2b5376ba09cd63123ce9a7c65fb8c7e7b49ce681863f999e39729d709d505f744fd0793b06aab8202486e86a8d488ba73d726fe7c09c3520bb9637c7bdc03ae072e91604d10975887d0061a324fa2d99a9c7ab3ea318a00b13a5b35f7904e2e8728bf5c0db5888c18a93d071b842793aaec8700955a9b55edc43594bcda513a44024ff87b60e356debb9a3116af9721797db065f97f482c5690926bbc9aef" key="zk1"/>
+</ZimbraLicense>
